@@ -1,0 +1,19 @@
+Analysis of Pokemon Dataset
+
+Introduction:
+The dataset consists of 800 Pokemon with attributes such as type, stats (HP, Attack, Defense, etc.), generation, and legendary status. This analysis aims to explore Pokemon distribution by type, correlations between stats, legendary vs. non-legendary Pokemon, and generational trends.
+
+Pokemon Type Distribution:
+The most common primary Pokemon types are Water, Normal, and Grass, while Ice and Ghost are the least frequent. This indicates that certain elemental types dominate the Pokemon universe, possibly due to their role in game mechanics.
+
+Statistical Correlations:
+A correlation Heatmap of Pokemon stats shows strong positive relationships between Attack and Special Attack, as well as Defense and Special Defense. This suggests that Pokemon with high attack power tend to have balanced offensive capabilities, and similarly, defensive stats often align.
+
+Legendary vs. Non-Legendary Pokemon:
+Legendary Pokemon exhibit significantly higher total stats compared to non-legendary Pokemon. A box plot analysis highlights that legendary Pokemon consistently outperform their non-legendary counterparts across all statistical attributes, reaffirming their rarity and superior strength.
+
+Generational Trends:
+An analysis of Pokemon generations reveals a slight increase in average total stats over time, indicating power creep. This suggests that newer generations introduce more powerful Pokemon, potentially to balance game mechanics or maintain player interest.
+
+Conclusion:
+The dataset provides valuable insights into Pokemon distribution and statistical trends. The dominance of certain types, strong correlations in stat attributes, and generational increases in power highlight the strategic evolution of Pokemon over time. Legendary Pokemon remain significantly stronger, reinforcing their elite status in the Pokemon world. These findings could be useful for game balancing and competitive play strategies.
